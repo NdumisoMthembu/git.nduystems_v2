@@ -272,6 +272,7 @@ body a:focus {
     font-size:1em;
     font-weight: 300;
     letter-spacing: 1px; 
+	width:200px;
 }
 .cd-stretchy-nav.edit-content ul span::after {
 	/* triangle below the tooltip */
