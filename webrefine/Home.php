@@ -9,19 +9,21 @@
 		<div class="container">
 			<div class="agile_banner_info">
 				<div class="agile_banner_info1">
-					<h3>Welcome To <span>Business</span></h3>
+					<h3>Welcome To <span>Ndu Systems</span></h3>
 					<div id="typed-strings" class="agileits_w3layouts_strings">
-						<p>start your <i>business</i> to complete your dream</p>
-						<p>Our <i>business</i> is Your business</p>
-						<p>Best Of <i>business</i> Planning advisors & specialist</p>
+						<p>Website  <i>Design</i></p>
+						<p>Custom <i>Systems</i></p>
+						<p>Mobile <i>Applications</i></p>
+						<p>Logo <i>Design</i></p>
+						<p>Website <i>Hosting</i></p>
 					</div>
 					<span id="typed" style="white-space:pre;"></span>
 				</div>
 				<div class="banner_agile_para">
-					<p>Excepteur sint occaecat cupidatat non proident.</p>
+					<p>Take your business online</p>
 				</div>
 				<div class="wrapper-inner-tab-backgrounds">
-					<div class="wrapper-inner-tab-backgrounds-first"><a href="single.html"><div class="sim-button button17">Read More</div></a></div>
+					<div class="wrapper-inner-tab-backgrounds-first"><a href="Our-Services"><div class="sim-button button17">Read More</div></a></div>
 				</div>
 			</div>
 		</div>
