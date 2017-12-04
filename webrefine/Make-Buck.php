@@ -50,7 +50,7 @@
                 </div>
             </div>
                 <div class="row pad">
-                    <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
                         <form>
                             <div class="form-group">
                                 <label>Estimated Project Amount (R)</label>
@@ -59,7 +59,7 @@
                             </div>
                         </form>
                     </div>
-                    <div class="col-lg-6 col-md-6 bg-info col-sm-12">                   
+                    <div class="col-lg-8 col-md-8 bg-info col-sm-12">                   
                             <div class="col-md-3 col-sm-6">
                                 <i class="fa fa-money" style="font-size:100px" aria-hidden="true"></i>
                             </div>

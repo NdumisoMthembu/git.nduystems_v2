@@ -48,16 +48,25 @@
 				</div>
 			</div>
 			<div class="col-md-6 come">
-				<div class=" about-wel">
-					<h5>We provide service since <span>2006</span> with proud!</h5>
-					<p>Masagni dolores eoquie int Basmodi temporant, autem vel eum iure reprehend.Unicmquam eius, Basmodi temurer sehsMunim.</p>
-					<p>Basmodi temporant, ut laboreas dolore magnam kuyte hend.Unicmquam eius, Basmodi temurer sehsMunim.</p>
-						<ul>
-							<li><i class="fa fa-hand-o-right" aria-hidden="true"></i>Masagni dolores eoquie oluptd olorem</li>
-							<li><i class="fa fa-hand-o-right" aria-hidden="true"></i>Ipsumquia dolor sitamnetase eiuse</li>
-							<li><i class="fa fa-hand-o-right" aria-hidden="true"></i>Ipsumquia dolor sitamne adipiscquam</li>
-						</ul>
-				</div>
+                <div class="about-wel">
+                    <h5>Providing services since <span style="color:orangered">2016</span></h5>
+                    <p>
+                        We pride ourselves in providing IT solutions that cater to our clients' needs and wants
+                        regardless of what type of business or personal digital footprint you want to leave over the internet
+                    </p>
+                    <p>
+                        Ndu-systems has a drive to impact the way that our communities percieve business over the internet.
+                        this can be your oppotunity to utilize our affordable and professionally driven services provided to you on a personal level.
+                    </p>
+                    <h5>
+                        OUR VALUES
+                    </h5>
+                    <ul>
+                        <li><i class="fa fa-trophy" aria-hidden="true"></i>Drive</li>
+                        <li><i class="fa fa-trophy" aria-hidden="true"></i>Honest</li>
+                        <li><i class="fa fa-trophy" aria-hidden="true"></i>Develop</li>
+                    </ul>
+                </div>
 			</div>
 			<div class="clearfix"> </div>
 		</div>
@@ -65,10 +74,10 @@
 </div>
 <!-- //welcome -->
 <!-- middle -->
-<div class="testi-mk" id="team">
+<!--<div class="testi-mk" id="team">
 	<div class="testimonials w3ls-section">
 		<div class="container">
-			<!--Slider-->	
+		 
 			<div class="callbacks_container">
 				<ul class="rslides" id="slider3">
 					<li>
@@ -96,19 +105,18 @@
 					</div>
 					</li>
 				</ul>
-			</div>
-			<!-- //Slider -->
+			</div> 
 		</div>
 	</div>
-</div>
+</div>-->
 <!-- //middle -->
 <!-- screen -->
-<div class="wthree_about_grid_right">
+<!--<div class="wthree_about_grid_right">
 	<img src="images/k1.png" alt=" ">
-</div>
+</div>-->
 <!-- //screen -->
 <!-- services -->
-<div class="services" id="services">
+<!--<div class="services" id="services">
 	<div class="container">
 		<div class="w3_agileits_services_grids">
 			<div class="col-md-3 w3_agileits_services_grid">
@@ -150,10 +158,10 @@
 			<div class="clearfix"> </div>
 		</div>
 	</div>
-</div>
+</div>-->
 <!-- //services -->
 <!-- news -->
-<div class="news" id="news">
+<!--<div class="news" id="news">
 	<div class="container">
 		<h3 class="title-w3l"><span>o</span>ur <span>B</span>log</h3>
 		<div class="news-grids">
@@ -189,10 +197,10 @@
 			<div class="clearfix"> </div>
 		</div>
 	</div>
-</div>
+</div>-->
 <!-- //news -->
 <!-- newsletter -->
-<div class="footer-top">
+<!--<div class="footer-top">
 	<div class="container">
 		<h3 class="title-w3l-2"><span>N</span>ewsLetter</h3>
 		<p>New Blog Posts delivered fresh to your inbox.</p>
@@ -201,67 +209,60 @@
 			<input type="submit" value="Subscribe">
 		</form>
 	</div>
-</div>
+</div>-->
 <!-- //newsletter -->
 <!-- footer -->
-<footer>
-	<div class="agileits-w3layouts-footer-top">
-		<div class="container">
-			<div class="col-md-6 agileits-w3layouts-footer-top-left">
-				<p><i class="fa fa-phone" aria-hidden="true"></i> +1 234 567 8901</p>
-			</div>
-			<div class="col-md-6 agileits-w3layouts-footer-top-left">
-				<p><i class="fa fa-envelope" aria-hidden="true"></i> Email :<a href="mailto:example@email.com"> mail@example.com</a></p>
-			</div>
-			<div class="clearfix"> </div>
-		</div>
-	</div>
-	<div class="agileits-footer-bottom">
-		<div class="container">
-			<div class="agileits-footer-bottom-grids">
-				<div class="col-md-6 footer-bottom-left">
-					<h2>About Us</h2>
-					<div class="footer-img-grids">
-						<div class="footer-img">
-							<img src="images/f1.jpg" alt="" />
-						</div>
-						<div class="footer-img-info">
-							<p>Suspendisse potenti. Pellentesque pulvinar tellus at est ullamcorper, at elementum nibh laoreet. Nunc id diam in nulla sollicitudin auctor. Donec elementum felis turpis, vel interdum libero congue non. Mauris non magna convallis</p>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-				</div>
-				<div class="col-md-3 footer-bottom-right">
-					<h5>We are social</h5>
-					<div class="agileinfo-social-grids">
-						<ul>
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-rss"></i></a></li>
-							<li><a href="#"><i class="fa fa-vk"></i></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-3 w3l-footer one tweet footer-bottom-right">
-					<h5>Tweets</h5>
-					<ul>
-						<li>
-							<a href="#"><i class="fa fa-twitter"></i>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accus.
-							<i>http//example.com</i></a>
-							<span>About 15 minutes ago<span>
-						</span></span></li>
-					</ul>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
-	<div class="copyright">
-		<div class="container">
-			<p>© 2017 Business Field. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
-		</div>
-	</div>
-</footer>
+    <footer>
+        <div class="agileits-w3layouts-footer-top">
+            <div class="container">
+                <div class="col-md-6 agileits-w3layouts-footer-top-left">
+                    <p><i class="fa fa-phone" aria-hidden="true"></i> (084) 252 9472 / (074) 695 8064 </p>
+                </div>
+                <div class="col-md-6 agileits-w3layouts-footer-top-left">
+                    <p><i class="fa fa-envelope" aria-hidden="true"></i> Email :<a href="mailto:example@email.com"> queries@ndu-systems.net</a></p>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+        <div class="agileits-footer-bottom">
+            <div class="container">
+                <div class="agileits-footer-bottom-grids">
+                    <div class="col-md-6 footer-bottom-left">
+                        <h2>VISION</h2>
+                        <div class="footer-img-grids">
+                            <div class="footer-img">
+                                <img src="images/f1.jpg" alt="" />
+                            </div>
+                            <div class="footer-img-info">
+                                <p>
+                                    Our vision is to develop cheap and affordable platforms available on the Internet a digital footprint is important for every individual and business who wants to compete in the latest trends and be easily accessible by everyone from anywhere around the world.
+                                </p>
+                            </div>
+                            <div class="clearfix"> </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 footer-bottom-right">
+                        <h5>We are social</h5>
+                        <div class="agileinfo-social-grids">
+                            <ul>
+                                <li><a href="http://facebook.com/ndu-systems" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/ndu-systems" target="_blank"><i class="fa fa-twitter"></i></a></li>
+
+
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="clearfix"> </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <p>© 2017 Ndu Systems. All rights reserved</p>
+            </div>
+        </div>
+    </footer>
 <!-- //footer -->
 
 <!-- js-scripts -->		

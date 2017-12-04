@@ -94,6 +94,35 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="api\AddCompany.php" />
+    <Content Include="api\conn.php" />
+    <Content Include="api\emailbeta.php" />
+    <Content Include="api\get.php" />
+    <Content Include="api\ndusys0_one %281%29.sql" />
+    <Content Include="api\upload.php" />
+    <Content Include="api\uploads\1511948101IMG-20170428-WA0052.jpg" />
+    <Content Include="api\uploads\1511948183IMG-20170428-WA0050.jpg" />
+    <Content Include="api\uploads\1511948194IMG-20170428-WA0050.jpg" />
+    <Content Include="api\uploads\1511948936IMG-20170428-WA0053.jpg" />
+    <Content Include="api\uploads\1511948939IMG-20170428-WA0053.jpg" />
+    <Content Include="api\uploads\1511949046IMG-20170428-WA0050.jpg" />
+    <Content Include="api\uploads\1511949114IMG_20170501_135150.jpg" />
+    <Content Include="api\uploads\1511949133IMG_20170501_135150.jpg" />
+    <Content Include="api\uploads\1511949153IMG_20170501_135150.jpg" />
+    <Content Include="api\uploads\1511949369sandton.jpg" />
+    <Content Include="api\uploads\1511949376sandton.jpg" />
+    <Content Include="api\uploads\1511949383sandton.jpg" />
+    <Content Include="api\uploads\1511949502sandton.jpg" />
+    <Content Include="api\uploads\1511949505sandton.jpg" />
+    <Content Include="api\uploads\1511949517sandton.jpg" />
+    <Content Include="api\uploads\1511949533sandton.jpg" />
+    <Content Include="api\uploads\1511949534sandton.jpg" />
+    <Content Include="api\uploads\1511949585ffxt.PNG" />
+    <Content Include="api\uploads\1511949591ffxt.PNG" />
+    <Content Include="api\uploads\1511949632ffxt.PNG" />
+    <Content Include="api\uploads\1511949656ffxt.PNG" />
+    <Content Include="api\uploads\1511954035icon.PNG" />
+    <Content Include="footer.php" />
     <Content Include="packages.config" />
     <Content Include=".htaccess" />
     <Content Include="fonts\fontawesome-webfont.eot" />
@@ -172,7 +201,6 @@
     <Content Include="nav.php" />
     <Content Include="nav2.php" />
     <Content Include="Our-Services.php" />
-    <Content Include="routes\routes.js" />
     <Content Include="w3layouts-License.txt" />
     <Content Include="Web.config" />
   </ItemGroup>

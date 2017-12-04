@@ -11,7 +11,7 @@
 	<nav class="cd-stretchy-nav edit-content">
 			<a class="cd-nav-trigger" href="#0"> Menu <span aria-hidden="true"></span> </a>
 			<ul>
-				<li><a href="#home" class="scroll active"><span>HOME</span></a></li>
+				<li><a href="Home" class="scroll active"><span>HOME</span></a></li>
 				<li><a href="About-Us"><span>WHO ARE WE</span></a></li>
 				<li><a href="Our-Services"><span>OUR SERVICES</span></a></li>   
 				<li><a href="Make-Buck"><span>MAKE A BUCK</span></a></li>
