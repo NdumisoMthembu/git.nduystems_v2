@@ -151,7 +151,7 @@ app.controller('AddBusinessController', function ($http, $scope, $route, $window
 });
 app.controller('businessController', function ($http, $scope, $route, $window) {
     // get  companies
-	$(".overlay").show();
+	Loading();
     var data = {
         table: "fearured",
         condition: " 1 "
@@ -164,5 +164,15 @@ app.controller('businessController', function ($http, $scope, $route, $window) {
         } else {
             $scope.companiesCount = 0;
         }
+		DoneLoading();
     });
 });
+
+function Loading(){
+	$(".overlay").show();
+	$(".loader").show();
+}
+function DoneLoading(){
+	$(".overlay").hide();
+	$(".loader").hide();
+}

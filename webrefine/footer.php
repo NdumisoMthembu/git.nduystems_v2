@@ -1,4 +1,3 @@
-<!-- footer -->
 <footer>
 	<div class="agileits-w3layouts-footer-top">
 		<div class="container">

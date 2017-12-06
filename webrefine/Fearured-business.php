@@ -27,7 +27,12 @@
 				<div class="col-md-12 col-lg-12 col-sm-12">
 					<div class="panel panel-primary">
                         <div class="panel-heading">
-                            <h2>Featured business <input class="search" type="text" ng-model="search" placeholder=" Search"/></h2>
+                            <h2>Featured business</h2>
+                        </div>                        
+                    </div>
+						<div class="panel panel-primary">
+                        <div class="panel-heading" style="background-color:white; border:none;">
+                            <h2> <input class="search" type="text" ng-model="search" placeholder=" Search"  style="width:100%"/></h2>
                         </div>                        
                     </div>
                     <div>

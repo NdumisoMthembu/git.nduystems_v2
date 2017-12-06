@@ -29,4 +29,7 @@
 	</div>
 </div>
 <div class="overlay"></div>
+<div class="loader">
+ <img src="images/loading.gif" style="width:30%" />
+</div>
 <!-- //banner-2 -->	
