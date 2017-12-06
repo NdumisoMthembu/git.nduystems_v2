@@ -245,7 +245,7 @@
                         <h5>We are social</h5>
                         <div class="agileinfo-social-grids">
                             <ul>
-                                <li><a href="http://facebook.com/ndu-systems" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.facebook.com/Ndusystemsnet/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="https://twitter.com/ndu-systems" target="_blank"><i class="fa fa-twitter"></i></a></li>
 
 

@@ -28,4 +28,5 @@
 		<!-- //top-nav -->
 	</div>
 </div>
+<div class="overlay"></div>
 <!-- //banner-2 -->	

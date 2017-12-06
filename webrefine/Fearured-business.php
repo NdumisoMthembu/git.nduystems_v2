@@ -27,12 +27,12 @@
 				<div class="col-md-12 col-lg-12 col-sm-12">
 					<div class="panel panel-primary">
                         <div class="panel-heading">
-                            <h2>Featured business</h2>
+                            <h2>Featured business <input class="search" type="text" ng-model="search" placeholder=" Search"/></h2>
                         </div>                        
                     </div>
                     <div>
                      
-                        <div class="row pad" ng-repeat="c in companies" style="margin:1%">
+                        <div class="row pad" ng-repeat="c in companies | filter:search" style="margin:1%">
                             <div class="col-lg-4 col-md-4 col-sm-12">
                                 <a>
                                     <img ng-src="{{c.image}}" width="300" />

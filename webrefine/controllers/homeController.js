@@ -151,6 +151,7 @@ app.controller('AddBusinessController', function ($http, $scope, $route, $window
 });
 app.controller('businessController', function ($http, $scope, $route, $window) {
     // get  companies
+	$(".overlay").show();
     var data = {
         table: "fearured",
         condition: " 1 "
