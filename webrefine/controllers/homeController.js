@@ -1,30 +1,43 @@
 ﻿app.controller('homeController', function ($http, $scope, $route, $window) {  
     $scope.price = 3500;
-
     //Send Mail
     $scope.SendMail = function(){
+		$scope.success = undefined;
+		$scope.error  = undefined;
+		
         var name = $scope.name;
         var number = $scope.number;
         var message = $scope.message;
         var email = $scope.email;
-        var subject = $scope.subject;
+		
+		if(name !== undefined && number !== undefined  && message !== undefined && email !== undefined){
 
         var emailObj = {
-            email: "queries@ndu-systems.net",//our email here
+            email: "queries@ndu-systems.net, mrnnmthembu@gmail.com",//our email here
             from: email,
             name: name,
             number: number,
-            subject: "Website Query Subject :" + subject,
+            subject: "Ndu Systems Customer Care - Website Query Subject",
             message : message
         };
-        $http.post("http://ndu-systems.net/Api/emailbeta.php", emailObj)
+        $http.post("http://ndu-systems.net/api/emailbeta.php", emailObj)
                     .success(function (response) {
                         console.log(response);
-                        alert("Email Sent Successfully!");
+						$scope.name = "";
+						$scope.email = "";
+						$scope.number = "";
+						$scope.message = "";
+						
+                        $scope.success = "Thank you contact us , we call you as soon as possible ";
                     })
                     .error(function (error) {
                         console.error(error);
                     });
+					
+	}
+	else{
+		$scope.error = "Please fill in the form completely!";
+	}
     }
 });
 

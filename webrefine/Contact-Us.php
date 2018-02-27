@@ -67,19 +67,20 @@
 						<div class="clearfix"> </div>
 					</div>-->
 				</div>
-				<div class="col-md-9 w3_contact_grid">
-					<form action="#" method="post">
+				<div class="col-md-9 w3_contact_grid" ng-controller="homeController">
+					<div>
 						<div class="col-md-6 wthree_contact_grid_left">
 							<input type="text" name="Name" ng-model="name" placeholder="Name" required="">
 							<input type="email" name="Email"ng-model="email"  placeholder="Email" required="">							
                             <input type="tel" name="Name" ng-model="number" placeholder="Cell Number" required="">
-                            <input type="text" name="Subject"ng-model="subject"  placeholder="Subject" required="">
 						</div>
 						<div class="col-md-6 wthree_contact_grid_right">
 							<textarea placeholder="Message..." ng-model="message" required=""></textarea>
-							<input type="submit" ng-click="SendMail()" value="Send" >
+							<input type="submit" ng-click="SendMail()" value="Send" > <BR>
+							<h4 style="color:green; padding:2%"> {{success}} </h4>
+							<h4 style="color:red;  padding:2%"> {{error}} </h4>
 						</div>
-					</form>
+					</div>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
