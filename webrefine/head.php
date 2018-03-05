@@ -22,6 +22,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
     <!--Angular Components-->
     <script src="angularjs/config.js"></script>
     <script src="js/angular.min.js"></script>
+
+    <script src="js/dirPagination.js"></script>
     <script src="js/angular-route.js"></script>
     <script src="angularjs/app.js"></script>
     <!--<script src="routes/routes.js"></script>-->

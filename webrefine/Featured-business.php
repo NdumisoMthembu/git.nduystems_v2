@@ -29,15 +29,26 @@
                         <div class="panel-heading">
                             <h2>Featured business</h2>
                         </div>                        
-                    </div>
-						<div class="panel panel-primary">
+                    </div>                  
+					<div class="panel panel-default">
                         <div class="panel-heading" style="background-color:white; border:none;">
                             <h2> <input class="search" type="text" ng-model="search" placeholder=" Search"  style="width:100%"/></h2>
                         </div>                        
                     </div>
                     <div>
+                      <div class="panel panel-default col-md-12 col-sm-12">
+
+                      <div class="panel-body">
+                            <h2>Why Feaured Business?</h2>
+                            <p  style="color:black">
+                            we at Ndu Systems have one goal and objective which is to make the internet and its broad features to be accessible to ordinary 
+                            South Africans especially start-up companies and individuals who wish to live a digital footprint and reach vast and ever growing markets
+                            that the current financial constraints limit them to reaching think Audience. <big><u>Think Featured Business</u></big>.
+                            </p>
+                       </div>
+                    </div>
                      
-                        <div class="row pad" ng-repeat="c in companies | filter:search" style="margin:1%">
+                        <div class="row pad"dir-paginate="c in companies | filter:search | itemsPerPage:5" style="margin:1%">
                             <div class="col-lg-4 col-md-4 col-sm-12">
                                 <a>
                                     <img ng-src="{{c.image}}" width="300" />
@@ -51,12 +62,15 @@
                                 <p>{{c.tel}}</p>
                             </div>
                         </div>
-                        <div class="row pad">
-                        
+                        <div class="row pad">                   
                      
                         
                     </div>
-				</div>				 
+				</div>
+                  <dir-pagination-controls max-size="5"
+                                 direction-links="true"
+                                 boundary-links="true">
+        </dir-pagination-controls>				 
 				<div class="clearfix"> </div>
 			</div>
 			<!-- //container -->

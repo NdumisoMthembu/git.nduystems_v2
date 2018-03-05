@@ -1,5 +1,5 @@
 ﻿var extention = ".php";
-var host = "http://localhost/git.ndusystemsbeta/webrefine/api/";
+var host = "http://localhost/git.ndusystems_v2/webrefine/api/";
 //var host = "http://ndu-systems.net/demo/ndusystems/api/";
 
 function GetApiUrl(serviceName) {

@@ -97,6 +97,8 @@
     <Content Include="api\AddCompany.php" />
     <Content Include="api\conn.php" />
     <Content Include="api\emailbeta.php" />
+    <Content Include="api\emailmakhawini.php" />
+    <Content Include="api\emailmakhawiniportal.php" />
     <Content Include="api\get.php" />
     <Content Include="api\ndusys0_one %281%29.sql" />
     <Content Include="api\upload.php" />
@@ -122,7 +124,9 @@
     <Content Include="api\uploads\1511949632ffxt.PNG" />
     <Content Include="api\uploads\1511949656ffxt.PNG" />
     <Content Include="api\uploads\1511954035icon.PNG" />
+    <Content Include="db\ndusys0_one.sql" />
     <Content Include="footer.php" />
+    <Content Include="js\dirPagination.js" />
     <Content Include="packages.config" />
     <Content Include=".htaccess" />
     <Content Include="fonts\fontawesome-webfont.eot" />
@@ -150,7 +154,7 @@
     <Content Include="css\font-awesome.css" />
     <Content Include="css\lightGallery.css" />
     <Content Include="css\style.css" />
-    <Content Include="Fearured-business.php" />
+    <Content Include="Featured-business.php" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Gallery.php" />
     <Content Include="head.php" />
@@ -201,7 +205,6 @@
     <Content Include="nav.php" />
     <Content Include="nav2.php" />
     <Content Include="Our-Services.php" />
-    <Content Include="w3layouts-License.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@
 		<div class="header">
 			  <div class="logo" style="width: 30%;">
                 <!--<h1><a href="#/"><span>N</span>du-system.net</a></h1>-->
-                <a href="Home"> <img src="images/logo-2.PNG" style="width:40%" /></a>
+                <a href="Home"> <img src="images/logo.PNG" style="width:40%" /></a>
             </div>   
 			<div class="clearfix"> </div>
 		</div>
@@ -21,7 +21,7 @@
 				<li><a href="Make-Buck"><span>MAKE A BUCK</span></a></li>
 				<li><a href="Gallery"><span>GALLERY</span></a></li> 
 				<li><a href="Contact-Us"><span>CONTACT US</span></a></li>
-                <li><a href="Fearured-business"><span>FEARURED-BUSINESS</span></a></li> 
+                <li><a href="Featured-business"><span>FEATURED-BUSINESS</span></a></li> 
 			</ul> 
 			<span aria-hidden="true" class="stretchy-nav-bg"></span>
 		</nav> 

@@ -34,10 +34,11 @@
                         <h4 style="text-align:center">Websites</h4>
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-12">
-                        <h3><i class="fa fa-globe" aria-hidden="true"></i>  From : R3500.00</h3>
+                        <h3><i class="fa fa-globe" aria-hidden="true"></i>  From : R1500.00 (3 Pages) <small>R500 per Page there after</small></h3>
                         <h4>
                             You have some product you want people to know about? 
                             in our days internet is the power! get a website today!
+
                         </h4>
                         <hr />
                     </div>
@@ -120,7 +121,7 @@
                         <h4 style="text-align:center">Domain Hosting & Up to 10 Email Accounts</h4>
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-12">
-                        <h3><i class="fa fa-cloud" aria-hidden="true"></i>  From : R500.00 p.a</h3>
+                        <h3><i class="fa fa-cloud" aria-hidden="true"></i>  From : R900.00 p.a</h3>
                         <h4>
                            We create you a domain account a functioning link to your website in addition at a burgain,
                             an email account that caters for up to ten personal email accounts using your domain extention

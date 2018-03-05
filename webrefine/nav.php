@@ -17,8 +17,8 @@
 				<li><a href="Make-Buck"><span>MAKE A BUCK</span></a></li>
 				<li><a href="Gallery"><span>GALLERY</span></a></li> 
 				<li><a href="Contact-Us"><span>CONTACT US</span></a></li>
-                <li><a href="Fearured-business"><span>FEARURED-BUSINESS</span></a></li> 
-			</ul> 
+                <li><a href="Featured-business"><span>FEATURED-BUSINESS</span></a></li> 
+			</ul>
 
         
 			<span aria-hidden="true" class="stretchy-nav-bg"></span>
